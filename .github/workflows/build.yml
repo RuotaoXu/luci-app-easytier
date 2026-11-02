@@ -32,7 +32,7 @@ jobs:
           
           
         sdk:
-          - 21.02-SNAPSHOT
+          - 21.02
 
     steps:
       - uses: actions/checkout@v6
